@@ -3,7 +3,7 @@
 <!--
 **rathoreanirudh/rathoreanirudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=rathoreanirudh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=rathoreanirudh&show_icons=true&count_private=true&title_color=c62828&icon_color=ef6c00)
 
 Here are some ideas to get you started:
 
